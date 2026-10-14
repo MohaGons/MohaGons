@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mohammad Gons Saib — Développeur web fullstack
 
-<!--
-**MohaGons/MohaGons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur fullstack basé en Île-de-France, avec 4 ans d'expérience chez Capgemini (projet Switch pour EDF) et Heropolis.
+Je conçois et livre des fonctionnalités de bout en bout, du front React au back Node.js / Java.
 
-Here are some ideas to get you started:
+🔎 **En recherche d'un CDI fullstack en Île-de-France (télétravail apprécié)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+React · TypeScript · Node.js · Java · Supabase / PostgreSQL · Tailwind CSS · Vitest
+
+## Projet phare : [FiveMaker](https://github.com/MohaGons/FiveMaker)
+Application qui forme des équipes de five équilibrées en un clic : algorithme d'équilibrage exhaustif,
+niveau dynamique façon Elo, rôles sécurisés par Row Level Security, stats et notation entre joueurs.
+React 19 · TypeScript · Supabase
+
+## Me contacter
+[LinkedIn](https://www.linkedin.com/in/mohammad-gons-saib/)
